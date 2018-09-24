@@ -54,14 +54,22 @@
 		3638A095215114C600E41776 /* Solo_Set */ = {
 			isa = PBXGroup;
 			children = (
-				3638A096215114C600E41776 /* AppDelegate.swift */,
 				3638A098215114C600E41776 /* ViewController.swift */,
 				3638A09A215114C600E41776 /* Main.storyboard */,
-				3638A09D215114C800E41776 /* Assets.xcassets */,
-				3638A09F215114C800E41776 /* LaunchScreen.storyboard */,
 				3638A0A2215114C800E41776 /* Info.plist */,
+				3638A0A8215114E900E41776 /* Supporting Files */,
 			);
 			path = Solo_Set;
+			sourceTree = "<group>";
+		};
+		3638A0A8215114E900E41776 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3638A096215114C600E41776 /* AppDelegate.swift */,
+				3638A09D215114C800E41776 /* Assets.xcassets */,
+				3638A09F215114C800E41776 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
